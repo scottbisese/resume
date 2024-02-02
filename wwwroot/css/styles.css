@@ -8,20 +8,6 @@ html, body {
     color: white;
 }
 
-#faceImage {
-    width: 40%;
-    transition: transform 0.3s ease;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: -1;
-    opacity: 0;
-}
-
-#faceImage:hover {
-    transform: scale(1.3);
-}
-
 #actionButton {
     padding: 10px 20px;
     border: none;
@@ -101,32 +87,37 @@ html, body {
 }
 
 .column :hover {
-    transform: scale(3);
+    transform: scale(1.5);
 }
 
 #c1 {
     background-color: rgb(0, 0, 0); /* Set the background color of the first column */
-    color:red;
+    color:gray;
+    font-size: large;
 }
 
 #c2 {
     background-color: rgb(10, 10, 10); /* Set the background color of the second column */
-    color:orange;
+    color:white(195, 255, 0);
+    font-size: large;
 }
 
 #c3 {
     background-color: rgb(20, 20, 20); /* Set the background color of the third column */
-    color:yellow;
+    color:gray;
+    font-size: large;
 }
 
 #c4 {
-    background-color: rgb(30, 30, 30); /* Set the background color of the fourth column */
-    color:green;
+    background-color: rgb(10, 10, 10); /* Set the background color of the fourth column */
+    color:white(195, 255, 0);
+    font-size: large;
 }
 
 #c5 {
-    background-color: rgb(40, 40, 40); /* Set the background color of the fifth column */
-    color:blue;
+    background-color: rgb(00, 00, 00); /* Set the background color of the fifth column */
+    color:gray;
+    font-size: large;
 }
 
 a {
