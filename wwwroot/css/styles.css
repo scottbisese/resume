@@ -1,0 +1,35 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#faceImage {
+    width: 80%;
+    max-height: 80vh;
+    object-fit: cover;
+}
+
+#actionButton {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    background-color: red;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from {
+        box-shadow: 0 0 5px red;
+    }
+    to {
+        box-shadow: 0 0 20px red;
+    }
+}
