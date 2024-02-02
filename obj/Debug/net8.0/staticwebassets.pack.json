@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "/Users/boulevardjenkines/Desktop/resume/wwwroot/audio/Bells.mp3",
-      "PackagePath": "staticwebassets/audio/Bells.mp3"
+      "Id": "/Users/boulevardjenkines/Desktop/resume/wwwroot/audio/jazz.mp3",
+      "PackagePath": "staticwebassets/audio/jazz.mp3"
+    },
+    {
+      "Id": "/Users/boulevardjenkines/Desktop/resume/wwwroot/audio/sneak.mp3",
+      "PackagePath": "staticwebassets/audio/sneak.mp3"
     },
     {
       "Id": "/Users/boulevardjenkines/Desktop/resume/wwwroot/css/styles.css",

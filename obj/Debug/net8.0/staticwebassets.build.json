@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/2TwLPG79kT2zoqhsxYq++BPel6DYx/cPy9R/bynEms=",
+  "Hash": "of6wREe5K23KdgkybsQDT7nWOTKFokPayGFj+WPzSYY=",
   "Source": "resume",
   "BasePath": "_content/resume",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "/Users/boulevardjenkines/Desktop/resume/wwwroot/audio/Bells.mp3",
+      "Identity": "/Users/boulevardjenkines/Desktop/resume/wwwroot/audio/jazz.mp3",
       "SourceId": "resume",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/boulevardjenkines/Desktop/resume/wwwroot/",
       "BasePath": "_content/resume",
-      "RelativePath": "audio/Bells.mp3",
+      "RelativePath": "audio/jazz.mp3",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,7 +33,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/audio/Bells.mp3"
+      "OriginalItemSpec": "wwwroot/audio/jazz.mp3"
+    },
+    {
+      "Identity": "/Users/boulevardjenkines/Desktop/resume/wwwroot/audio/sneak.mp3",
+      "SourceId": "resume",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/boulevardjenkines/Desktop/resume/wwwroot/",
+      "BasePath": "_content/resume",
+      "RelativePath": "audio/sneak.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/audio/sneak.mp3"
     },
     {
       "Identity": "/Users/boulevardjenkines/Desktop/resume/wwwroot/css/styles.css",
