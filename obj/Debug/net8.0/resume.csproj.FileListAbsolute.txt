@@ -24,3 +24,4 @@
 /Users/boulevardjenkines/Desktop/resume/obj/Debug/net8.0/resume.pdb
 /Users/boulevardjenkines/Desktop/resume/obj/Debug/net8.0/resume.genruntimeconfig.cache
 /Users/boulevardjenkines/Desktop/resume/obj/Debug/net8.0/ref/resume.dll
+/Users/boulevardjenkines/Desktop/resume/bin/Debug/net8.0/resume.staticwebassets.runtime.json

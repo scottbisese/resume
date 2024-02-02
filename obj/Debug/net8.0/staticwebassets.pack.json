@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/boulevardjenkines/Desktop/resume/wwwroot/audio/Bells.mp3",
+      "PackagePath": "staticwebassets/audio/Bells.mp3"
+    },
+    {
+      "Id": "/Users/boulevardjenkines/Desktop/resume/wwwroot/css/styles.css",
+      "PackagePath": "staticwebassets/css/styles.css"
+    },
+    {
+      "Id": "/Users/boulevardjenkines/Desktop/resume/wwwroot/images/ghost.jpeg",
+      "PackagePath": "staticwebassets/images/ghost.jpeg"
+    },
+    {
+      "Id": "/Users/boulevardjenkines/Desktop/resume/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/boulevardjenkines/Desktop/resume/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.resume.props",
+      "PackagePath": "build\\resume.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.resume.props",
+      "PackagePath": "buildMultiTargeting\\resume.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.resume.props",
+      "PackagePath": "buildTransitive\\resume.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.resume.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
