@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     .replace('BirdWatch', '<a href="https://github.com/scottbisese/BirdWatch" target="_blank" style="color: yellow;">BirdWatch</a>')
                     .replace('RandoCam', '<a href="https://github.com/scottbisese/rand0cam" target="_blank" style="color: green;">RandoCam</a>')
                     .replace('SpotifyPlaylistBuilder', '<a href="https://github.com/scottbisese/spotifyPlaylistBuilder" target="_blank" style="color: blue;">Spotify Playlist Builder</a>')
-                    .replace('<a1>', '<a href="https://www.randoc.am/" target="_blank">Live Deployment</a>')
+                    // .replace('<a1>', '<a href="https://www.randoc.am/" target="_blank">Live Deployment</a>')
                     .replace('<a5>', '<a href="https://endgoalspotifyplaylistbuilder.azurewebsites.net/" target="_blank">Live Deployment</a>');
     
                     // Directly set the HTML content after typing is complete
